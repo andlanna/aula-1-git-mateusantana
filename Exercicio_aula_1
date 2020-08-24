@@ -1,0 +1,14 @@
+## Exercício 1
+
+a) Git Init: Cria um novo repositório, também é possível criar um novo branch principal.
+b) Git Clone: É usado em um repositório configurado para clonar o arquivo em que se deseja trabalhar.
+c) Git Branch: Permite criar, listar, deletar e renomear ramificações.
+d) Git Checkout: Permite perpassar entre os branch criados. A verificação de um branch atualiza os arquivos no diretório atual para que fique igual à versão armazenada nesse branch.
+e) Git Fetch: Usado para 
+f) Git Pull:
+g) Git Add:
+h) Git Commit:
+i) Git Push:
+
+## Exercício 2
+
