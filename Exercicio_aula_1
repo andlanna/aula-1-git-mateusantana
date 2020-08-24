@@ -4,11 +4,11 @@ a) Git Init: Cria um novo repositório, também é possível criar um novo branc
 b) Git Clone: É usado em um repositório configurado para clonar o arquivo em que se deseja trabalhar.
 c) Git Branch: Permite criar, listar, deletar e renomear ramificações.
 d) Git Checkout: Permite perpassar entre os branch criados. A verificação de um branch atualiza os arquivos no diretório atual para que fique igual à versão armazenada nesse branch.
-e) Git Fetch: Usado para 
-f) Git Pull:
-g) Git Add:
-h) Git Commit:
-i) Git Push:
+e) Git Fetch: Usado para baixar commits, referencias e arquivos de um repositório remoto para um local.
+f) Git Pull: Usado para buscar e baixar arquivos de repositório remoto e atualizar de forma imediata para um repositório local.
+g) Git Add: Usado para adicionar um conteúdo do arquivo para o indice. Este comando atualiza o índice utilizando o conteúdo atual encontrado na árvore de trabalho para preparar o conteúdo para o próximo commit
+h) Git Commit: Salva as mudanças feitas no repositório.
+i) Git Push: Usado para enviar arquivos de um repositório local para um remoto.
 
 ## Exercício 2
-
+O comando git fetch baixa os arquivos, commits ou arquivos de um repositório remoto para um locl, contudo não os incorpora com cópia atual para o repositório local. O git pull funciona, de forma geral, acomo a combinação do fetch e merge, ou seja, baixa os arquivos do repositório remoto e os incorpora em um local.
